@@ -1,0 +1,3 @@
+export { ProgramaEnsinoNovo } from "./ProgramaEnsinoNovo";
+
+

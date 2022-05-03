@@ -1,0 +1,2 @@
+export { NovoCidade } from "./NovoCidade";
+

@@ -1,0 +1,3 @@
+export { NovoPessoa } from "./novoPessoa";
+
+
