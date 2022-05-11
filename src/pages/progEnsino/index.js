@@ -1,3 +1,0 @@
-export { ProgramaEnsinoNovo } from "./ProgramaEnsinoNovo";
-
-

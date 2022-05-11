@@ -1,1 +1,0 @@
-export {VinculoNovo } from './VinculoNovo';

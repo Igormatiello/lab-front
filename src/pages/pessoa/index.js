@@ -1,3 +1,0 @@
-export { NovoPessoa } from "./novoPessoa";
-
-
